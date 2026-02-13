@@ -1,4 +1,4 @@
-# Infrastructure Lab
+# Platform Engineering Lab
 
 This repository documents hands-on infrastructure labs built to develop and
 demonstrate practical skills in Linux administration, virtualization,
