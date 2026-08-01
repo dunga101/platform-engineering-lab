@@ -14,3 +14,9 @@ IT and infrastructure work.
   - Phase 2: Core Network Baseline  
   - Architecture and design decisions documented in  
     `docs/architecture/pfsense-phase-2-network-baseline.md`
+
+- **FortiGate Hybrid Hypervisor Lab**
+  - Physical FortiGate 80E integrated with Proxmox VE and Windows Server 2025 Hyper-V
+  - Separate routed lab networks, bidirectional firewall policies, NAT, DHCP, and independent management paths
+  - Architecture and validation documented in
+    `docs/architecture/fortigate-hybrid-hypervisor-lab.md`
